@@ -2,7 +2,7 @@ const quizQuestions = [
     {
         question: "What is the capital of India?",
         options: ["Paris", "London", "Delhi", "Rome"],
-        correctAnswer: "Paris"
+        correctAnswer: "Delhi"
     },
     {
         question: "Which planet is known as the Red Planet?",
